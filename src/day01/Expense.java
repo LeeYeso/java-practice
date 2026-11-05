@@ -1,3 +1,5 @@
+package day01;
+
 public class Expense {
 
     //클래스 필드
